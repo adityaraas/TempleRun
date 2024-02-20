@@ -7,7 +7,7 @@ const App = () => {
   const [selectedJyotirlinga, setSelectedJyotirlinga] = useState(null);
 
   useEffect(() => {
-    fetch('src/temple2.json')
+    fetch('/temple2.json')
       .then(response => response.json())
       .then(data => setJyotirlingas(data.jyoti))
       .catch(error => console.error('Error fetching Jyotirlingas:', error));
