@@ -1,0 +1,66 @@
+{
+  "jyotirlingas": [
+    {
+      "name": "Somnath",
+      "history": "Somnath Jyotirlinga is one of the most revered shrines dedicated to Lord Shiva. Located in Prabhas Patan near Veraval in Saurashtra, Gujarat, the temple has a rich history and has been a symbol of spirituality. The original temple was believed to be built by Lord Somnath in gold. It has been destroyed and reconstructed several times. The present temple, known as the Somnath Mahadev Temple, is a significant pilgrimage site.",
+      "howToReach": "Veraval is the nearest railway station, and Diu Airport is the nearest airport."
+    },
+    {
+      "name": "Mallikarjuna (Srisailam)",
+      "history": "Mallikarjuna Jyotirlinga is located on the Srisailam mountain in Andhra Pradesh. The temple is dedicated to Lord Shiva and Goddess Parvati. According to mythology, Lord Shiva resided here in the form of Mallikarjuna and performed penance. The temple has a rich history and is considered sacred by devotees. Pilgrims can reach Srisailam by road and can also take a ropeway to reach the mountaintop.",
+      "howToReach": "Srisailam is well-connected by road, and the nearest railway station is Markapur Road Railway Station (85 km away). The nearest airport is Vijayawada Airport (180 km away)."
+    },
+    {
+      "name": "Mahakaleshwar (Ujjain)",
+      "history": "Mahakaleshwar Jyotirlinga is situated in Ujjain, Madhya Pradesh, and is dedicated to Lord Shiva. The temple is one of the twelve Jyotirlingas and holds great significance. It is believed that Lord Shiva himself resides in the Mahakaleshwar form. The temple is known for its unique idol of Lord Shiva and the Bhasma Aarti. Devotees can reach Ujjain by road and rail. The nearest airport is Devi Ahilyabai Holkar Airport (57 km away).",
+      "howToReach": "Ujjain is well-connected by road and rail. The nearest airport is Devi Ahilyabai Holkar Airport (57 km away)."
+    },
+    {
+      "name": "Omkareshwar",
+      "history": "Omkareshwar Jyotirlinga is located on an island called Mandhata or Shivapuri in the Narmada River, Madhya Pradesh. The temple is dedicated to Lord Shiva and has a unique design with intricate carvings. The island resembles the shape of the 'Om' symbol when seen from above. Pilgrims can reach Omkareshwar by road, and the nearest railway station is Omkareshwar Road (12 km away). The nearest airport is Devi Ahilyabai Holkar Airport in Indore (77 km away).",
+      "howToReach": "Omkareshwar is well-connected by road. The nearest railway station is Omkareshwar Road (12 km away), and the nearest airport is Devi Ahilyabai Holkar Airport in Indore (77 km away)."
+    },
+    {
+      "name": "Kedarnath",
+      "history": "Kedarnath Jyotirlinga is situated in the Garhwal Himalayan range, near the Mandakini River in Uttarakhand. The temple is dedicated to Lord Shiva and is part of the Char Dham Yatra. It is one of the holiest shrines for Hindus and attracts pilgrims from around the world. The temple opens only for a limited period during the year due to harsh weather conditions. Pilgrims can reach Kedarnath by trekking or on mules. The nearest airport is Jolly Grant Airport in Dehradun.",
+      "howToReach": "Kedarnath is accessible by trekking or on mules. The nearest airport is Jolly Grant Airport in Dehradun."
+    },
+    {
+      "name": "Bhimashankar",
+      "history": "Bhimashankar Jyotirlinga is located in the Sahyadri range of Maharashtra. The temple is dedicated to Lord Shiva and is associated with the legend of Lord Shiva slaying the demon Bhima. The temple's architecture is a blend of old and new styles. Pilgrims can reach Bhimashankar by road, and the nearest railway station is Pune Junction (110 km away). The nearest airport is Pune Airport (125 km away).",
+      "howToReach": "Bhimashankar is well-connected by road. The nearest railway station is Pune Junction (110 km away), and the nearest airport is Pune Airport (125 km away)."
+    },
+    {
+      "name": "Kashi Vishwanath (Varanasi)",
+      "history": "Kashi Vishwanath Jyotirlinga is located in Varanasi, Uttar Pradesh, along the western bank of the Ganges River. The temple is dedicated to Lord Shiva and is one of the oldest and holiest in Hinduism. It has been destroyed and reconstructed several times. The present temple was built by Maharani Ahilya Bai Holkar of Indore. Pilgrims can reach Varanasi by road, rail, and air.",
+      "howToReach": "Varanasi is well-connected by road, rail, and air. The nearest airport is Lal Bahadur Shastri International Airport."
+    },
+    {
+      "name": "Trimbakeshwar",
+      "history": "Trimbakeshwar Jyotirlinga is located near Nashik in Maharashtra. The temple is dedicated to Lord Shiva and is situated between three hills: Brahmagiri, Nilagiri, and Kalagiri. The source of the Godavari River is believed to be near Trimbakeshwar. Pilgrims can reach Trimbakeshwar by road, and the nearest railway station is Nashik Road (28 km away). The nearest airport is Ozar Airport in Nashik.",
+      "howToReach": "Trimbakeshwar is well-connected by road. The nearest railway station is Nashik Road (28 km away), and the nearest airport is Ozar Airport in Nashik."
+    },
+    {
+      "name": "Vaidyanath (Deoghar)",
+      "history": "Vaidyanath Jyotirlinga, also known as Vaijnath, is situated in Deoghar in the Santhal Parganas division of Jharkhand. The temple is dedicated to Lord Shiva and is one of the must-visit pilgrimage sites for Hindus. The temple complex is known for its architectural beauty. Pilgrims can reach Deoghar by road, and the nearest railway station is Baidyanathdham (7 km away). The nearest airport is Deoghar Airport.",
+      "howToReach": "Deoghar is well-connected by road. The nearest railway station is Baidyanathdham (7 km away), and the nearest airport is Deoghar Airport."
+    },
+    {
+      "name": "Nageshwar (Dwarka)",
+      "history": "Nageshwar Jyotirlinga is located near Dwarka in Gujarat. The temple is dedicated to Lord Shiva and is known for the Aarati performed by the local priests. The Jyotirlinga is situated in an underground chamber and is believed to be swayambhu (self-manifested). Pilgrims can reach Dwarka by road, and the nearest railway station is Dwarka Railway Station. The nearest airport is Jamnagar Airport (137 km away).",
+      "howToReach": "Dwarka is well-connected by road. The nearest railway station is Dwarka Railway Station, and the nearest airport is Jamnagar Airport (137 km away)."
+    },
+    {
+      "name": "Rameshwar (Rameswaram)",
+      "history": "Rameshwar Jyotirlinga is located on Rameswaram Island in Tamil Nadu. The temple is dedicated to Lord Shiva and is one of the twelve Jyotirlingas. It is also part of the Char Dham Yatra. The temple's corridors are known for their architectural beauty. Pilgrims can reach Rameswaram by road, and the nearest railway station is Rameswaram Railway Station. The nearest airport is Madurai Airport (174 km away).",
+      "howToReach": "Rameswaram is well-connected by road. The nearest railway station is Rameswaram Railway Station, and the nearest airport is Madurai Airport (174 km away)."
+    },
+    {
+      "name": "Grishneshwar",
+      "history": "Grishneshwar Jyotirlinga is located near Ellora in Maharashtra. The temple is dedicated to Lord Shiva and is part of the Ellora Caves complex. The temple is also known as the Ghushmeshwar Temple. Pilgrims can reach Ellora by road, and the nearest railway station is Aurangabad Railway Station (29 km away). The nearest airport is Aurangabad Airport.",
+      "howToReach": "Ellora is well-connected by road. The nearest railway station is Aurangabad Railway Station (29 km away), and the nearest airport is Aurangabad Airport."
+    }
+    
+  ]
+}
+export default data;
